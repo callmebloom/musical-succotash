@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\testscorop\testscorop\bin\Debug\net6.0\testscorop.exe
+C:\Users\Admin\source\repos\testscorop\testscorop\bin\Debug\net6.0\testscorop.deps.json
+C:\Users\Admin\source\repos\testscorop\testscorop\bin\Debug\net6.0\testscorop.runtimeconfig.json
+C:\Users\Admin\source\repos\testscorop\testscorop\bin\Debug\net6.0\testscorop.dll
+C:\Users\Admin\source\repos\testscorop\testscorop\bin\Debug\net6.0\testscorop.pdb
+C:\Users\Admin\source\repos\testscorop\testscorop\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\testscorop\testscorop\obj\Debug\net6.0\testscorop.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\testscorop\testscorop\obj\Debug\net6.0\testscorop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\testscorop\testscorop\obj\Debug\net6.0\testscorop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\testscorop\testscorop\obj\Debug\net6.0\testscorop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\testscorop\testscorop\obj\Debug\net6.0\testscorop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\testscorop\testscorop\obj\Debug\net6.0\testscorop.csproj.CopyComplete
+C:\Users\Admin\source\repos\testscorop\testscorop\obj\Debug\net6.0\testscorop.dll
+C:\Users\Admin\source\repos\testscorop\testscorop\obj\Debug\net6.0\refint\testscorop.dll
+C:\Users\Admin\source\repos\testscorop\testscorop\obj\Debug\net6.0\testscorop.pdb
+C:\Users\Admin\source\repos\testscorop\testscorop\obj\Debug\net6.0\testscorop.genruntimeconfig.cache
+C:\Users\Admin\source\repos\testscorop\testscorop\obj\Debug\net6.0\ref\testscorop.dll
